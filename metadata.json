@@ -1,0 +1,5 @@
+{
+  "name": "CampaignPeel",
+  "description": "A Neubrutalist marketing asset generator that transforms text and PDFs into high-converting social media posts and ad copy using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
